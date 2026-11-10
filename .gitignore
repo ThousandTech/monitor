@@ -1,3 +1,6 @@
 # Python 字节码缓存：由解释器自动生成，可随时重建，不应进入版本库
 __pycache__/
 *.py[cod]
+
+# django 缓存
+*.djcache
